@@ -1,0 +1,16 @@
+.draw-card {
+    position: absolute;
+    border: 1px solid black;
+    height: 400px;
+    width: 300px;
+    background-color: green;
+}
+
+.draw-card-btn {
+    position: relative;
+    text-align: center;
+}
+#draw-card-btn {
+    text-align: center;
+    padding: 5px;
+}
